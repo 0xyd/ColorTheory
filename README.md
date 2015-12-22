@@ -8,7 +8,8 @@ There are three ways to describe colors: according to their names, how pure they
 We often use Chroma(濃度), Intensity, Saturation and Luminance(亮度) used for describing colors.
 
 Chroma: How pure is the hue in relation to gray.
-<span style='background: red; height: 100px; width: 100px;'></span>
+[chroma]
+[chroma]: https://raw.githubusercontent.com/yudazilian/ColorTheory/master/src/ChromaExample-Red.png
 Saturation: The degree of purity of a hue.
 Intensity: The brightness or darkness of the hue.
 Luminance: How much light will reflect from a hue. A Hue with white content has higher luminance.
