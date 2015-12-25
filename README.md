@@ -35,5 +35,9 @@ For the painters who make the artworks in traditional ways like painting, they p
 
 The definition of Subtractive Color method we found at [Wikipedia](https://en.wikipedia.org/wiki/Subtractive_color) is "A subtractive color model explains the mixing of a limited set of dyes, inks, paint pigments or natural colorants to create a wider range of colors, each the result of partially or completely subtracting (that is, absorbing) some wavelengths of light and not others." In other words, the color starts from white and end with black and when we add more hues, it is closer to black which, in physics field, can be explained that the some light waves has been filtered while adding other hues.
 
+[RYB Color Mode](https://en.wikipedia.org/wiki/RYB_color_model) is a set of colors has been used in substractive color mixing for a long long while. RYB is an abbreviation for three colors: Red, Yellow and Blue which are also the primary colors in painting field.
+
+RYB has not been replaced on color printing industry until mid-20th the more versatile color mode (CMY Color Mode) has been widely adopted in commercial printing. CMY Color mode is popular known as [CMYK model](https://en.wikipedia.org/wiki/CMYK_color_model) which is another use of subtractive color method. 
+
 
 
