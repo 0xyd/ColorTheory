@@ -37,7 +37,16 @@ The definition of Subtractive Color method we found at [Wikipedia](https://en.wi
 
 [RYB Color Mode](https://en.wikipedia.org/wiki/RYB_color_model) is a set of colors has been used in substractive color mixing for a long long while. RYB is an abbreviation for three colors: Red, Yellow and Blue which are also the primary colors in painting field.
 
-RYB has not been replaced on color printing industry until mid-20th the more versatile color mode (CMY Color Mode) has been widely adopted in commercial printing. CMY Color mode is popular known as [CMYK model](https://en.wikipedia.org/wiki/CMYK_color_model) which is another use of subtractive color method. 
+RYB has not been replaced on color printing industry until mid-20th the more versatile color mode (CMY Color Mode) has been widely adopted in commercial printing. CMY Color mode is popular known as [CMYK model](https://en.wikipedia.org/wiki/CMYK_color_model) which is another subtractive color method. 
+
+![cmyk](https://upload.wikimedia.org/wikipedia/commons/f/f7/CMYK_color_swatches2.png)
+Cyan, Megenta, Yellow and Key(Black)
+
+![CMYK color plate](https://upload.wikimedia.org/wikipedia/commons/1/19/SubtractiveColor.svg)
+
+CMYK is an abbreviation of four colors: Cyan(青色或藍綠色), Magenta(洋紅), Yellow(黃色) and Key(black). As the RYB does, CMYK masks the light. The ink reduces the light that would otherwise be reflected. Simply to say, the ink subtracts the color from white.
+
+[Halftone (半色調)](https://en.wikipedia.org/wiki/Halftone) method is the reprographic technique that simulates continuous tone imagery through the use of dots. By varying the dots in size or in spacing, Halftone can create gradiant like effect once the observers standing from the sufficient distance. How come the Halftone generate continous hue changing with incontinous dots? It's a matter of our brian cheated by optical illusion. The human brain will smooth the white space with the surrounding dots' color if human eyes can not identify the dots clearly. 
 
 
 
